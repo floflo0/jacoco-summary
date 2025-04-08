@@ -1,0 +1,5 @@
+env
+jacoco_summary/__pycache__
+test/__pycache__
+.coverage
+.pytest_cache/
